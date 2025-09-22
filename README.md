@@ -37,7 +37,17 @@ This repository contains the **frontend** of the project, built with React and T
 
 ### Prerequisites
 - Node.js (v18+)
-- npm 
+- npm
+
+## 📌 Project Status
+This project is actively being developed by a student team.  
+**Current focus:** Frontend pages and UI components.
+
+## 🤝 Contributing
+Since this is a group project, contributions are limited to team members.
+
+## 📜 License
+This project is not yet licensed.
 
 ### Installation
 ```bash
@@ -52,12 +62,4 @@ npm install
 npm run dev
 
 
-## 📌 Project Status
-This project is actively being developed by a student team.  
-**Current focus:** Frontend pages and UI components.
 
-## 🤝 Contributing
-Since this is a group project, contributions are limited to team members.
-
-## 📜 License
-This project is not yet licensed.
